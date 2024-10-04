@@ -62,8 +62,9 @@ NASA MODIS: Moderate Resolution Imaging Spectroradiometer for land temperature m
 NASA ECOSTRESS: For evapotranspiration and water stress data.
 IMERG: Integrated Multi-satellitE Retrievals for GPM (Global Precipitation Measurement) data for rainfall predictions.
 
-👨‍💻 Authors
+**👨‍💻 Authors**
 Adham Khalill - adham-khalill
+
 Ahmed Tahan - Ahmed-Tahan7
 
 
